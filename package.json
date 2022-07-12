@@ -1,6 +1,6 @@
 {
   "name": "personal-cv",
-  "homepages": "https://joeyu0938.github.io/personal-cv",
+  "homepages": "./",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
